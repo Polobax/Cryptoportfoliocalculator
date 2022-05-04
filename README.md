@@ -1,3 +1,8 @@
+# Crypto Portfolio tool
+we are using the CoinGecko API to programm a crypto portfolio tool with the goal to create an equivalent to the Portfolio Visualizer for crypto portfolio analysis (See link: https://www.portfoliovisualizer.com/ ) 
+
+
+
 # CoinGecko API wrapper
 [![PyPi Version](https://img.shields.io/pypi/v/pycoingecko.svg)](https://pypi.python.org/pypi/pycoingecko/)
 ![GitHub](https://img.shields.io/github/license/man-c/pycoingecko)
