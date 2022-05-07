@@ -1,5 +1,0 @@
-pip install pycoingecko
-from pycoingecko import CoinGeckoAPI
-cg = CoinGeckoAPI()
-import requests
-trending_dataset = cg.get_search_trending()
